@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cande!
 - 👀 I’m interested in videogames, movies and programming. 
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Java.
 
 <!---
 c-godoy/c-godoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
