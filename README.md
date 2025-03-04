@@ -11,6 +11,11 @@ Feel free to take a look, you can ask me if you have any doubts about my codes.
 ☕ In my free time, I enjoy reading, listening to music, play football and spend time with my friends and family.<br>
 🕵🏼 I participate in communities such as FrontEndCafe and MeT Labs.
 
+<h2>Skills 🕵🏻‍♀️</h2>
+📍 Java, C# <br>
+📍 Selenium, BDD, Cucumber, SpecFlow <br>
+📍 Manual Testing
+
 <h2>Contact Me 📩 </h2>
 🐥 <a href="https://twitter.com/qande_godoy">X</a> <br>
 📘 <a href="https://linkedin.com/in/candelagodoy">LinkedIn</a> <br>
