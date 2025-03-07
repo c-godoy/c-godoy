@@ -5,7 +5,7 @@ This is my safe space to test, create and make mistakes. <br>
 Feel free to take a look, you can ask me if you have any doubts about my codes.
 
 <h2>About Me 💥 </h2>
-📌 My name is Cande, I am 27 years old and I live in Santa Fe, Argentina. <br>
+📌 My name is Cande, I am 28 years old and I live in Santa Fe, Argentina. <br>
 💻 I've been working as QA for almost three years and I'm currently interested in hybrid positions (manual/automation QA).<br>
 ⚽ I'm a big fan of Boca Juniors football team.<br>
 ☕ In my free time, I enjoy reading, listening to music, play football and spend time with my friends and family.<br>
